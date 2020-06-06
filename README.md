@@ -23,7 +23,8 @@ The application is built using React and React-Redux, which is a contemporary st
 ## How to run it locally
 
       * Either download the complete package or do a git pull of the repository.
-      * If you are downloading the package, unzip the package and go to the source code directory and follow the steps mentioned below - 
+      * If you are downloading the package, unzip the package and go to the source code 
+        directory and follow the steps mentioned below - 
 
 
 
@@ -62,12 +63,12 @@ Resume link:-
 https://drive.google.com/file/d/1wfys5etfoANR9UjOO728mgnJW91vA1MJ/view?usp=sharing
 
 Other project links:-
-  `https://github.com/rajat-jain-au5/trello-clone`
-  `https://github.com/rajat-jain-au5/calandar-clone`
-  `https://github.com/rajat-jain-au5/travellers`
-  `https://github.com/rajat-jain-au5/movieapp`
+  `https://github.com/rajat-jain-au5/trello-clone`<br/>
+  `https://github.com/rajat-jain-au5/calandar-clone`<br/>
+  `https://github.com/rajat-jain-au5/travellers`<br/>
+  `https://github.com/rajat-jain-au5/movieapp`<br/>
 
 
 Delpoyed App:-
-'https://deskatrello.herokuapp.com/'
-'https://calendarclone.netlify.app/
+'https://deskatrello.herokuapp.com/'<br/>
+'https://calendarclone.netlify.app/`<br/>
